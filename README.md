@@ -1,2 +1,3 @@
-# birdclef2022
-Project Work
+# Birdclef 2022
+Team: Master Elite
+Master Project Work
