@@ -1,1 +1,4 @@
 *.zip
+*.ogg
+/birdclef-2022
+birdclef_eda_nb.ipynb
