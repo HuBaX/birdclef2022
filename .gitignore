@@ -3,4 +3,9 @@
 
 *.ogg
 /birdclef-2022
+/birdclef-2022-data
 birdclef_eda_nb.ipynb
+annotated_data_2.csv
+annotation_data_2.csv
+images/spectrogram_with_padding_3x5sec_explained.png
+images/split_distribution.png
