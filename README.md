@@ -41,5 +41,5 @@ Training was done on a system with an Intel i7 6700 and a GTX 1070 and took anyt
     * Some adjustments to the Constants at the top might need to be made depending on the folder structure at hand
     * Run *add_folder_structure* first and then *generate_spectrograms*
     * This will generate a lot of data (roughly 20 Gig of data for our chosen format of spectrograms)
-3. If the simple spectrograms are to be used (spoiler, they are better than the processed ones) one can just run one of the model configurations to start training after having generated the spectrograms
+3. If the simple spectrograms are to be used (spoiler, they are better than the processed ones) one can just run one of the model configurations to start training after having generated the spectrograms (either *LeNet.ipynb* or *Lightning-efficientB0.ipynb*)
  
